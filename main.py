@@ -7,3 +7,6 @@ def mul(x,y):
 def poten(x,y):
   potencia = x^y
   return potencia
+def resta (x,y)
+  resta=x-y
+  return resta
